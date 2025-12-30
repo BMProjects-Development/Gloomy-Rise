@@ -13,7 +13,7 @@
 		width: 50.0d
 		height: 30.0d
 		rotation: 0.0d
-		image: "gloomyrise:textures/clear_bookred.png"
+		image: "gloomyrise:textures/clearbookred.png"
 		hover: [ ]
 		click: ""
 		dev: false

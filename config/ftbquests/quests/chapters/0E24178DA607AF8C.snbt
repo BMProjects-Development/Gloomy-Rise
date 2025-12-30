@@ -64,82 +64,9 @@
 				title: "{gloomyrise.intro.quests1.tasks0.title}"
 			}]
 			rewards: [{
-				id: "21BFFB821D55EB0A"
+				id: "1E8F747D38A4BB82"
 				type: "item"
-				item: {
-					id: "akashictome:tome"
-					Count: 1b
-					tag: {
-						"akashictome:data": {
-							industrialforegoing: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "industrialforegoing:industrial_foregoing"
-								}
-							}
-							evilcraft: {
-								id: "evilcraft:origins_of_darkness"
-								Count: 1b
-							}
-							tconstruct: {
-								id: "tconstruct:encyclopedia"
-								Count: 1b
-							}
-							resourcefulbees: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "resourcefulbees:fifty_shades_of_bees"
-								}
-							}
-							astralsorcery: {
-								id: "astralsorcery:tome"
-								Count: 1b
-							}
-							immersiveengineering: {
-								id: "immersiveengineering:manual"
-								Count: 1b
-							}
-							mana-and-artifice: {
-								id: "mana-and-artifice:guide_book"
-								Count: 1b
-							}
-							extendedcrafting: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "extendedcrafting:guide"
-								}
-							}
-							botania: {
-								id: "botania:lexicon"
-								Count: 1b
-							}
-							bloodmagic: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "bloodmagic:guide"
-								}
-							}
-							mysticalagriculture: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "mysticalagriculture:guide"
-								}
-							}
-							cyclic: {
-								id: "patchouli:guide_book"
-								Count: 1b
-								tag: {
-									"patchouli:book": "cyclic:cyclic_guide_book"
-								}
-							}
-						}
-					}
-				}
+				item: "akashictome:tome"
 			}]
 		}
 		{
