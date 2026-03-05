@@ -1,13 +1,13 @@
 
 #Game settings
 [settings]
-	#Are tea bushes bonemealable?
-	enableBoneMealTeaBush = false
-	#Are coffee bushes bonemealable?
-	enableBoneMealCoffeeBush = false
 	#Chance of generating wild tea bushes. Smaller value = more frequent.
 	#Range: > 0
 	teaBushChance = 20
+	#Are coffee bushes bonemealable?
+	enableBoneMealCoffeeBush = false
+	#Are tea bushes bonemealable?
+	enableBoneMealTeaBush = false
 	#Chance of generating coffee bushes. Smaller value = more frequent.
 	#Range: > 0
 	coffeeBushChance = 2

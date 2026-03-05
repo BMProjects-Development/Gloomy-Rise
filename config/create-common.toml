@@ -11,6 +11,12 @@
 		[worldgen.v2.copper_ore]
 			# 
 			#Range: > 0
+			minHeight = 40
+			# 
+			#Range: > 0
+			maxHeight = 85
+			# 
+			#Range: > 0
 			clusterSize = 18
 			# 
 			#Amount of clusters generated per Chunk.
@@ -19,14 +25,14 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 2.0
-			# 
-			#Range: > 0
-			minHeight = 40
-			# 
-			#Range: > 0
-			maxHeight = 85
 
 		[worldgen.v2.weathered_limestone]
+			# 
+			#Range: > 0
+			minHeight = 10
+			# 
+			#Range: > 0
+			maxHeight = 30
 			# 
 			#Range: > 0
 			clusterSize = 128
@@ -37,14 +43,14 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.015625
-			# 
-			#Range: > 0
-			minHeight = 10
-			# 
-			#Range: > 0
-			maxHeight = 30
 
 		[worldgen.v2.zinc_ore]
+			# 
+			#Range: > 0
+			minHeight = 15
+			# 
+			#Range: > 0
+			maxHeight = 70
 			# 
 			#Range: > 0
 			clusterSize = 14
@@ -55,34 +61,34 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 4.0
-			# 
-			#Range: > 0
-			minHeight = 15
-			# 
-			#Range: > 0
-			maxHeight = 70
 
 		[worldgen.v2.limestone]
-			# 
-			#Range: > 0
-			clusterSize = 128
-			# 
-			#Amount of clusters generated per Chunk.
-			#  >1 to spawn multiple.
-			#  <1 to make it a chance.
-			#  0 to disable.
-			#Range: 0.0 ~ 512.0
-			frequency = 0.015625
 			# 
 			#Range: > 0
 			minHeight = 30
 			# 
 			#Range: > 0
 			maxHeight = 70
+			# 
+			#Range: > 0
+			clusterSize = 128
+			# 
+			#Amount of clusters generated per Chunk.
+			#  >1 to spawn multiple.
+			#  <1 to make it a chance.
+			#  0 to disable.
+			#Range: 0.0 ~ 512.0
+			frequency = 0.015625
 
 		[worldgen.v2.dolomite]
 			# 
 			#Range: > 0
+			minHeight = 20
+			# 
+			#Range: > 0
+			maxHeight = 70
+			# 
+			#Range: > 0
 			clusterSize = 128
 			# 
 			#Amount of clusters generated per Chunk.
@@ -91,16 +97,16 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.015625
-			# 
-			#Range: > 0
-			minHeight = 20
-			# 
-			#Range: > 0
-			maxHeight = 70
 
 		[worldgen.v2.gabbro]
 			# 
 			#Range: > 0
+			minHeight = 20
+			# 
+			#Range: > 0
+			maxHeight = 70
+			# 
+			#Range: > 0
 			clusterSize = 128
 			# 
 			#Amount of clusters generated per Chunk.
@@ -109,14 +115,14 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.015625
-			# 
-			#Range: > 0
-			minHeight = 20
-			# 
-			#Range: > 0
-			maxHeight = 70
 
 		[worldgen.v2.scoria]
+			# 
+			#Range: > 0
+			minHeight = 0
+			# 
+			#Range: > 0
+			maxHeight = 10
 			# 
 			#Range: > 0
 			clusterSize = 128
@@ -127,10 +133,4 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.03125
-			# 
-			#Range: > 0
-			minHeight = 0
-			# 
-			#Range: > 0
-			maxHeight = 10
 

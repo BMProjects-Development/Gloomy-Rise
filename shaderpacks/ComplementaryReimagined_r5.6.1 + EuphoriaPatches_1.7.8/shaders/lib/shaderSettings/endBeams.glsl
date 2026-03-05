@@ -1,7 +1,0 @@
-#ifndef END_BEAMS_SETTINGS_FILE
-#define END_BEAMS_SETTINGS_FILE
-
-#define END_BEAMS
-//#define BEAMS_NEAR_PLAYER
-
-#endif

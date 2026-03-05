@@ -106,6 +106,12 @@
 	[modules.generator]
 		enabled = true
 
+		[modules.generator.pitiful_generator]
+			enabled = true
+
+		[modules.generator.mycelial_reactor]
+			enabled = true
+
 		[modules.generator.biofuel_generator]
 			enabled = true
 
@@ -113,12 +119,6 @@
 			enabled = true
 
 		[modules.generator.bioreactor]
-			enabled = true
-
-		[modules.generator.pitiful_generator]
-			enabled = true
-
-		[modules.generator.mycelial_reactor]
 			enabled = true
 
 	#All the Industrial Foregoing tools that allow of transport of things

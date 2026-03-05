@@ -8,10 +8,10 @@
 [Recipe]
 	#Enable default recipes for Energy Cells?
 	cells = true
-	#Enable default recipes for Thrusters?
-	thrusters = true
 	#Enable default recipes for Capacitors?
 	capacitors = true
+	#Enable default recipes for Thrusters?
+	thrusters = true
 	#Enable default recipes for Jetpacks?
 	jetpacks = true
 
