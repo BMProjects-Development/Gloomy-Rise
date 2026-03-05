@@ -1,5 +1,0 @@
-
-[client]
-	#Whether to disable the spam in the logs. Default is false.
-	disableLogSpam = false
-
