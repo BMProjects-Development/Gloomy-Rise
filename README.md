@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1920" height="1080" alt="Gloomy Rise" src="https://github.com/user-attachments/assets/82ab780c-8199-44e4-a2ff-53ab731c994a" />
+<img width="1920" height="1080" alt="Gloomy Rise" src="https://github.com/user-attachments/assets/82ab780c-8199-44e4-a2ff-53ab731c994a"/>
 
 <p>
   <a href="https://github.com/BMProjects-Development/Gloomy-Rise/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Gloomy-Rise?style=for-the-badge&labelColor=DC143C&color=8B0000" alt="Stars"></a>
@@ -37,7 +37,7 @@
 
 
 # Download
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/gloomy-rise) <br/>
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/gloomyrise) <br/>
 [Google Disk](https://drive.google.com/file/d/1SydoxqWpQkR58RRP-CqnIyCesp5Lx30z/view?usp=drive_link) <br/>
 [Yandex Disk](https://disk.yandex.ru/d/MxUuXUr4lbR-lQ)
 
@@ -47,9 +47,9 @@
 [Boosty](https://boosty.to/barmaxx)
 
 # Other links
-[Gallery](https://www.curseforge.com/minecraft/modpacks/gloomy-rise/gallery) <br/>
-[Relations](https://www.curseforge.com/minecraft/modpacks/gloomy-rise/relations/dependencies) <br/>
+[Gallery](https://www.curseforge.com/minecraft/modpacks/gloomyrise/gallery) <br/>
+[Relations](https://www.curseforge.com/minecraft/modpacks/gloomyrise/relations/dependencies) <br/>
 
-<img width="400" height="400" alt="Gloomy Rise Icon" src="https://github.com/user-attachments/assets/5ff79066-872f-4de3-8947-3c93e9da06b5" />
+<img width="400" height="400" alt="Gloomy Rise Icon" src="https://github.com/user-attachments/assets/5ff79066-872f-4de3-8947-3c93e9da06b5"/>
 
 </div>
