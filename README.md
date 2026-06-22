@@ -44,6 +44,7 @@
 # Contacts
 [Telegram](https://t.me/BMProjects) <br/>
 [Discord](https://discord.gg/9GWKBVw3Ty) <br/>
+[Patreon](https://www.patreon.com/c/BMProjectsMinecraft) <br/>
 [Boosty](https://boosty.to/barmaxx)
 
 # Other links
