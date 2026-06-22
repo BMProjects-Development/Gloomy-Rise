@@ -1,33 +1,55 @@
-# Gloomy-Rise
+<div align="center">
+<img width="1920" height="1080" alt="Gloomy Rise" src="https://github.com/user-attachments/assets/82ab780c-8199-44e4-a2ff-53ab731c994a" />
 
-# TechnoMagic and RPG Modpack for 1.16.5 Forge
+<p>
+  <a href="https://github.com/BMProjects-Development/Gloomy-Rise/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Gloomy-Rise?style=for-the-badge&labelColor=DC143C&color=8B0000" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Gloomy-Rise/stargazers"><img src="https://img.shields.io/github/stars/BMProjects-Development/Gloomy-Rise.svg?style=for-the-badge&labelColor=DC143C&color=8B0000" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Gloomy-Rise/graphs/contributors"><img src="https://img.shields.io/github/contributors/BMProjects-Development/Gloomy-Rise.svg?style=for-the-badge&labelColor=DC143C&color=8B0000" alt="Contributors"></a>
+  <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=DC143C&color=8B0000" alt="Discord"></a>
+</p>
 
-# 💥 Features:
+# Gloomy Rise
+<b>Gloomy Rise</b> is an expert TechnoMagic and RPG modpack for Minecraft 1.16.5 Forge, developed by BMProjects. In this pack, you will embark on a multi-directional path of progression, bridging the gap between primitive tools, powerful magic spells, advanced high-tech industrial automation, and perilous boss battles. <b>Gloomy Rise</b> features a meticulously balanced progression system seamlessly woven together through 550+ comprehensive quests, 500+ heavily modified recipes, unique scripts, and exclusive custom items. Are you ready to endure the challenges and make it all the way to the end? <br/>
 
-- Lots of quests
-- Modified crafts
-- Link between all mods
-- Unique menu
-- Pleasant atmosphere in the game
-- Configured configs
-- Unique scripts
-- Custom items
-- Interesting build finale
+# Features
+### <b>Progression and Balance</b>
+- <b>Expert Progression</b>: Experience a gradual and challenging development curve. To advance, you must master multiple fields-combining Magic, Technology, RPG, and Adventure elements to unlock your true potential.
+
+- <b>Interconnected Recipes</b>: Over 500 recipes have been completely changed and fine-tuned using unique scripts, ensuring all mods are tightly woven together like threads in a unified logical chain.
+
+- <b>Quests</b>: More than 550 customized quests guide you through every step of your journey, explaining unique mechanics, progression gates, and resource goals.
+
+### <b>Custom Content</b>
+- <b>Unique UI and Design</b>: The modpack features a completely redesigned, custom main menu and user interface that sets a mysterious, immersive atmosphere from the moment you launch the game.
+
+- <b>Custom Items & Creative Crafting</b>: Exclusive custom items have been integrated to enable balanced transitions between tech and magic, leading up to an epic final stage where you can craft endgame Creative items.
+
+- <b>Fresh Aesthetics</b>: A large number of textures have been updated and refreshed for the most popular mods, breathing new life into familiar blocks and mechanics.
+
+### <b>Gameplay & Mechanics</b>
+- <b>Magic & Spellcraft</b>: Dive deep into magic systems where you can write and customize your own spells to build up immense power and defend against the dark.
+
+- <b>Automation & Exploration</b>: Set up advanced resource extraction and automate complex crafting pipelines while exploring a dangerous world filled with unique structures.
+
+- <b>RPG Elements & Boss Battles</b>: Engage in a small, evolving story line as you fight hordes of tougher monsters and powerful bosses, testing your gear and automated setups to the absolute limit.
+
+- <b>Config Fine-tuning</b>: A massive number of configuration files and scripts have been manually adjusted to ensure optimal balance, smooth performance, and bug-free gameplay.
 
 
-# Description
+# Download
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/gloomy-rise) <br/>
+[Google Disk](https://drive.google.com/file/d/1SydoxqWpQkR58RRP-CqnIyCesp5Lx30z/view?usp=drive_link) <br/>
+[Yandex Disk](https://disk.yandex.ru/d/MxUuXUr4lbR-lQ)
 
-# En
-- Gloomy Rise is an assembly in which you will develop in various directions, from Primitive technologies and Magic Spells to High Technology and Boss Battles! In this assembly you will meet: gradual and gradual development, which will give you an exclusive and interesting gameplay; a full-fledged combination of Magic, Technology, RPG and Adventure, as well as other genres; writing your own spells to build up your own power; fighting crowds of monsters and bosses; automation of crafting and resource extraction in various ways; creating Creative items; custom and unique items; an interesting assembly finale; a small share of the plot and many, many more!
+# Contacts
+[Telegram](https://t.me/BMProjects) <br/>
+[Discord](https://discord.gg/9GWKBVw3Ty) <br/>
+[Boosty](https://boosty.to/barmaxx)
 
-- Mods in Gloomy Rise are connected like threads from a huge number of modified recipes! This will give your development even more uniqueness and immerse you in the assembly more than ever. In addition, a large number of new textures were changed and added to the assembly for the most popular mods, thereby giving them freshness. And of course, a huge number of quests have been added to the assembly, which will take you through the entire assembly and tell you what you can do in it. And with the new update, custom items have appeared in the game, an interesting build finale and a small part of the plot that will develop with each new version!
+# Other links
+[Gallery](https://www.curseforge.com/minecraft/modpacks/gloomy-rise/gallery) <br/>
+[Relations](https://www.curseforge.com/minecraft/modpacks/gloomy-rise/relations/dependencies) <br/>
 
-- And even that's not all - there is so much content in the assembly that it's simply impossible to describe it all. So download the build soon and start your journey in this completely new and unknown world! Hmm, and will you be able to go all the way to the "Gloomy Rise" or will you not even try? :)
+<img width="400" height="400" alt="Gloomy Rise Icon" src="https://github.com/user-attachments/assets/5ff79066-872f-4de3-8947-3c93e9da06b5" />
 
- 
-# Ru
-- Gloomy Rise - это сборка в которой Вы будете развиваться в различных направлениях, от Примитивных технологий и Магических заклинаний до Высоких технологий и Сражений с Боссами! В этой сборке вы встретите: постепенное и поэтапное развитие, которое подарит Вам эксклюзивный и интересный геймплей; полноценное соединение Магии, Технологий, РПГ и Приключений, а также других жанров; написание собственных заклинаний для наращивания собственного могущества; сражение с толпами монстров и боссов; автоматизацию крафтов и добычу ресурсов различными путями; создание Творческих предметов; кастомные и уникальные предметы; интересный Финал сборки; небольшую долю сюжета и ещё много-много всего!
-
-- Моды в Gloomy Rise связаны словно нитями из огромного количества измененных рецептов! Это придаст вашему развитию еще больше уникальности и погрузит Вас в сборку сильнее, чем когда-либо. Кроме этого, в сборке было изменено и добавлено большое количество новых текстур для самых популярных модов, тем самым, придавая им свежести. И конечно же, в сборку добавлено огромное количество квестов, которые проведут вас по всей сборке и расскажут, чем в ней можно заняться. А с новым обновлением в игре появились кастомные предметы, интересный финал сборки и небольшая доля сюжета, который будет развиваться с каждой новой версией!
-
-- И даже это не всё - в сборке настолько много контента, что описать это все просто невозможно. Поэтому скорее скачивайте сборку и начинайте свое путешествие в этом совершенно новом и неизвестном мире! Хм, а получится ли у вас пройти весь пути "Мрачного подъема" или вы даже не попытаетесь? :)
+</div>
